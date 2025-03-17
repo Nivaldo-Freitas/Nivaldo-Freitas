@@ -6,7 +6,7 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Meu LinkedIn" width="50" height="50">
 </a>
 
-## My techs 🤖
+## My skills 🛠️
 
 ### 6.000+ Hours 🥇
 
