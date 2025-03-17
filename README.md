@@ -1,12 +1,11 @@
 
 
-Please consider following me on
+Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-neto-31819414b/)
 
 <a href="https://www.linkedin.com/in/nivaldo-neto-31819414b/">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Meu LinkedIn" width="50" height="50">
 </a>
 
-[Meu LinkedIn](https://www.linkedin.com/in/nivaldo-neto-31819414b/)
 ## My techs
 
 ### 6.000+ Hours
