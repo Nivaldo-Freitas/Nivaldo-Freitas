@@ -12,7 +12,7 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,git,js,cs,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,js,bootstrap,git,visualstudio" />
   </a>
 </p>
 
@@ -24,18 +24,8 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
   </a>
 </p>
 
-<picture>
- <img alt="Welcome to my Git, fell free to explore!" src="https://camo.githubusercontent.com/55856fb5524fa3c16627af16241febfabe81e16f1600169a891d599757671750/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465">
-</picture>
 
-<picture>
- <img alt="Welcome to my Git, fell free to explore!" src="https://camo.githubusercontent.com/f4c52b575a890c7e67c6541271fc5733506088d19c77ffde6bab3e18e7948536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465">
-</picture>
-
-<picture>
- <img alt="Welcome to my Git, fell free to explore!" src="https://camo.githubusercontent.com/0d7ef95b10e93801a3bd8637bec636064d518a4c73366504ed50b04cf32a5727/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465">
-</picture>
-
+![image](https://github.com/user-attachments/assets/d19ceffa-3248-42bc-a0ab-bc3fa85ad9ec)
 <picture>
  <img alt="Welcome to my Git, fell free to explore!" src="https://camo.githubusercontent.com/8542eeba4fcb8eb585af0d38fcde6d271f30897e02338d69b1071d5c46069c63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c25323053657665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465">
 </picture>
