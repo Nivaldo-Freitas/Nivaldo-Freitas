@@ -3,7 +3,7 @@
 ## My techs
 
 <p align="center">
-  ### 6.000+ Hours
+  <span>### 6.000+ Hours</span>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
