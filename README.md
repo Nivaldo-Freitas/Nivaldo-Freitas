@@ -6,7 +6,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
+[![My LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg "Linkedin")](https://www.linkedin.com/in/nivaldo-neto-31819414b/)
 
 ## My techs
 
