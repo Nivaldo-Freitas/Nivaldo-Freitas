@@ -1,11 +1,6 @@
 
 
-<p>
-  <h3>Please consider following me on </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+# Please consider following me on
 
 [![My LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg "LinkedIn")](https://www.linkedin.com/in/nivaldo-neto-31819414b/)
 
