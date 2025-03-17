@@ -4,7 +4,7 @@
 <span align="center">### 6.000+ Hours</span>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,c#,sql" />
+    <img src="https://skillicons.dev/icons?i=git,js,csharp,sql" />
   </a>
 </p>
 
