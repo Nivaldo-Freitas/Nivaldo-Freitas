@@ -10,7 +10,7 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
 
 ### 6.000+ Hours 🥇
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,bitbucket,git,visualstudio,js,bootstrap" />
     <img src="https://github.com/user-attachments/assets/d19ceffa-3248-42bc-a0ab-bc3fa85ad9ec" alt="Microsoft SQL Server" width="50" height="50">
@@ -19,7 +19,7 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
 
 
 ### 2.000+ Hours 🥈
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp"/>
   </a>
@@ -27,7 +27,7 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
 
 
 ### 100+ Hours 🥉
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,p5js,notion"/>
   </a>
