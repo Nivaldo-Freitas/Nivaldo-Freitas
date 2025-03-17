@@ -1,7 +1,15 @@
 
+# Please consider following me on 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
 
 ## My techs
-<p align="center">### 6.000+ Hours</p>
+
+### 6.000+ Hours
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,11 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
 
 
 <p align="center">
