@@ -1,5 +1,5 @@
 
-# Please consider following me on 
+Please consider following me on 
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
