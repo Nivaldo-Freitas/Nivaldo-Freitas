@@ -1,7 +1,7 @@
 
 
 <p>
-  Please consider following me on 
+  <h3>Please consider following me on </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
