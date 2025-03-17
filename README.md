@@ -21,7 +21,7 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
 ### 500+ Hours
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,p5js,notion"/>
+    <img src="https://skillicons.dev/icons?i=cpp,py,p5js,notion"/>
   </a>
 </p>
 
