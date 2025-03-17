@@ -1,13 +1,24 @@
 
 
 ## My techs
-<span align="center">### 6.000+ Hours</span>
-<span align="center" style="border:1px solid red;">
-    This is some text in a div element!
-</span>
+<p align="center">### 6.000+ Hours</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,cs,sql,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=dotnet,git,js,cs,visualstudio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,p5js,notion" />
   </a>
 </p>
 
