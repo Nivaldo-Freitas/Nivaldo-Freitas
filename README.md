@@ -6,9 +6,9 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Meu LinkedIn" width="50" height="50">
 </a>
 
-## My techs
+## My techs 🤖
 
-### 6.000+ Hours
+### 6.000+ Hours 🥇
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
 </p>
 
 
-### 2.000+ Hours
+### 2.000+ Hours 🥈
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp"/>
@@ -26,7 +26,7 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
 </p>
 
 
-### 100+ Hours
+### 100+ Hours 🥉
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,p5js,notion"/>
