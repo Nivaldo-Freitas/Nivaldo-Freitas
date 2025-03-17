@@ -1,9 +1,12 @@
 
 
-# Please consider following me on
+Please consider following me on
 
-[![My LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg "LinkedIn")](https://www.linkedin.com/in/nivaldo-neto-31819414b/)
+<a href="https://www.linkedin.com/in/nivaldo-neto-31819414b/">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Meu LinkedIn" width="50" height="50">
+</a>
 
+[Meu LinkedIn](https://www.linkedin.com/in/nivaldo-neto-31819414b/)
 ## My techs
 
 ### 6.000+ Hours
@@ -18,7 +21,7 @@
 ### 500+ Hours
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,p5js,notion" width="300" height="200" />
+    <img src="https://skillicons.dev/icons?i=py,p5js,notion"/>
   </a>
 </p>
 
