@@ -18,7 +18,7 @@
 ### 500+ Hours
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,p5js,notion" />
+    <img src="https://skillicons.dev/icons?i=py,p5js,notion" width="300" height="200" />
   </a>
 </p>
 
