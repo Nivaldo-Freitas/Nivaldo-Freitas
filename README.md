@@ -26,7 +26,8 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
 
 
 <p>
- <img src="https://github.com/user-attachments/assets/d19ceffa-3248-42bc-a0ab-bc3fa85ad9ec" width="50" height="50"> \
+ <img src="https://github.com/user-attachments/assets/d19ceffa-3248-42bc-a0ab-bc3fa85ad9ec" width="50" height="50"> 
+  \
  <img alt="Welcome to my Git, fell free to explore!" src="https://camo.githubusercontent.com/8542eeba4fcb8eb585af0d38fcde6d271f30897e02338d69b1071d5c46069c63/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f667425323053514c25323053657665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465">
 </p>
 
