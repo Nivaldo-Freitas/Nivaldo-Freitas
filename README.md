@@ -34,3 +34,13 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
 </p>
 
 [![Nivaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivaldo-Freitas&show_icons=true&theme=tokyonight)](https://github.com/Nivaldo-Freitas/github-readme-stats)
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
