@@ -35,7 +35,7 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=py,p5js,notion](https://i.pinimg.com/originals/32/79/46/3279462667fb3498a6aa144e7cdea2ae.gif)"/>
+    <img src="https://i.pinimg.com/originals/32/79/46/3279462667fb3498a6aa144e7cdea2ae.gif"/>
   </a>
 </p>
 
