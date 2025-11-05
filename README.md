@@ -6,6 +6,14 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Meu LinkedIn" width="50" height="50">
 </a>
 
+See my Portfolio. (Under Construction)
+<p align="center">
+  <a href="https://fifty-shed-05124807.figma.site/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-Figma-blue?style=for-the-badge" alt="Portfólio">
+  </a>
+</p>
+
+
 ## My skills 🛠️
 
 ### 6.000+ Hours 🥇
