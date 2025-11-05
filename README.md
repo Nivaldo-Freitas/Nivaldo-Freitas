@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there, I'm <a href="https://www.linkedin.com/in/nivaldo-neto-31819414b/" target="_blank">Nivaldo Neto</a></h1>
+<h1 align="center">👋 Hello there, I'm <a href="https://www.linkedin.com/in/nivaldo-freitas/" target="_blank">Nivaldo Neto</a></h1>
 <h3 align="center">💻 Back-End Developer | C#, .NET & SQL Server Specialist | A.I Enthusiast</h3>
 
 <p align="center">
