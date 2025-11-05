@@ -6,9 +6,17 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Meu LinkedIn" width="50" height="50">
 </a>
 
-## 🎨 My Portfolio (Live Preview)
-[![Preview do Portfólio](https://i.imgur.com/YOUR_IMAGE_ID.png)](https://fifty-shed-05124807.figma.site/)
+## 💼 My Portfolio
 
+<div align="center">
+  <a href="https://fifty-shed-05124807.figma.site/" target="_blank">
+    <img src="https://i.imgur.com/YOUR_IMAGE_ID.png" width="600" alt="Preview do Portfólio"/>
+  </a>
+  <p>
+    🔗 <a href="https://fifty-shed-05124807.figma.site/">Acesse o portfólio</a><br>
+    <em>Em construção, criado no Figma com foco em UI/UX e integração com .NET</em>
+  </p>
+</div>
 
 ## My skills 🛠️
 
