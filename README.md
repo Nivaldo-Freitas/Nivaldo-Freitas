@@ -21,11 +21,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://fifty-shed-05124807.figma.site/" target="_blank">
-    <img src="https://i.imgur.com/YOUR_IMAGE_ID.png" alt="Preview do Portfólio" width="700" style="border-radius: 12px;">
-  </a>
-</p>
+[🌐 Veja meu portfólio no Figma](https://fifty-shed-05124807.figma.site/)
 
 <p align="center"><em>Em construção — criado no Figma com foco em UI/UX e integração com .NET</em></p>
 
