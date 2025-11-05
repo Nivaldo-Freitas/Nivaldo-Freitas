@@ -1,12 +1,19 @@
+<h1 align="center">👋 Hello there, I'm <a href="https://www.linkedin.com/in/nivaldo-neto-31819414b/" target="_blank">Nivaldo Neto</a></h1>
+<h3 align="center">💻 Back-End Developer | C#, .NET & SQL Server Specialist | A.I Enthusiast</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nivaldo-neto-31819414b/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Meu LinkedIn" width="50" height="50">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Nivaldo-Freitas" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50">
+  </a>
+</p>
 
-Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-neto-31819414b/)
+---
 
-<a href="https://www.linkedin.com/in/nivaldo-neto-31819414b/">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="Meu LinkedIn" width="50" height="50">
-</a>
-
-## 🌐 My Portfolio
+## 🌐 Portfolio
 
 <p align="center">
   <a href="https://fifty-shed-05124807.figma.site/" target="_blank">
@@ -14,48 +21,52 @@ Please consider following me on [LinkedIn](https://www.linkedin.com/in/nivaldo-n
   </a>
 </p>
 
-
-## My skills 🛠️
-
-### 6.000+ Hours 🥇
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,bitbucket,git,visualstudio,js,bootstrap" />
-    <img src="https://github.com/user-attachments/assets/d19ceffa-3248-42bc-a0ab-bc3fa85ad9ec" alt="Microsoft SQL Server" width="50" height="50">
-  </a>
-</p>
-
-
-### 2.000+ Hours 🥈
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp"/>
-  </a>
-</p>
-
-
-### 100+ Hours 🥉
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,p5js,notion"/>
-  </a>
-</p>
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://i.pinimg.com/originals/32/79/46/3279462667fb3498a6aa144e7cdea2ae.gif"/>
+  <a href="https://fifty-shed-05124807.figma.site/" target="_blank">
+    <img src="https://i.imgur.com/YOUR_IMAGE_ID.png" alt="Preview do Portfólio" width="700" style="border-radius: 12px;">
   </a>
 </p>
 
-[![Nivaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivaldo-Freitas&show_icons=true&theme=tokyonight)](https://github.com/Nivaldo-Freitas/github-readme-stats)
+<p align="center"><em>Em construção — criado no Figma com foco em UI/UX e integração com .NET</em></p>
 
-Here is a simple flow chart:
+---
 
+## 🛠️ My Skills
+
+### 🥇 6.000+ Hours
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,bitbucket,git,visualstudio,js,bootstrap" />
+  <img src="https://github.com/user-attachments/assets/d19ceffa-3248-42bc-a0ab-bc3fa85ad9ec" alt="Microsoft SQL Server" width="50" height="50">
+</p>
+
+### 🥈 2.000+ Hours
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp"/>
+</p>
+
+### 🥉 100+ Hours
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,p5js,notion"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Nivaldo-Freitas">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nivaldo-Freitas&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  </a>
+  <a href="https://github.com/Nivaldo-Freitas">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nivaldo-Freitas&theme=tokyonight&hide_border=true" width="48%">
+  </a>
+</p>
+
+---
+
+## 🧩 Diagram
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+    A[Idea] --> B[Planning];
+    B --> C[Development];
+    C --> D[Testing];
+    D --> E[Deployment];
