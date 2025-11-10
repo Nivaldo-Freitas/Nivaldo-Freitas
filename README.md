@@ -28,18 +28,18 @@
 
 ### 🥇 6.000+ Hours
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,bitbucket,git,cursor,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,bitbucket,visualstudio,js,bootstrap,css&perline=4" />
   <img src="https://github.com/user-attachments/assets/d19ceffa-3248-42bc-a0ab-bc3fa85ad9ec" alt="Microsoft SQL Server" width="50" height="50">
 </p>
 
 ### 🥈 2.000+ Hours
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,docker,azure,aws"/>
 </p>
 
 ### 🥉 100+ Hours
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,p5js,notion"/>
+  <img src="https://skillicons.dev/icons?i=figma,py,p5js,notion,threejs"/>
 </p>
 
 ---
