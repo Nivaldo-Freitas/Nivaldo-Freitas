@@ -28,7 +28,7 @@
 
 ### 🥇 6.000+ Hours
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,bitbucket,git,visualstudio,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,bitbucket,git,cursor,js,bootstrap" />
   <img src="https://github.com/user-attachments/assets/d19ceffa-3248-42bc-a0ab-bc3fa85ad9ec" alt="Microsoft SQL Server" width="50" height="50">
 </p>
 
