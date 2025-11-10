@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/🌐%20Portfólio-Figma-blue?style=for-the-badge" alt="Portfólio"/>
   </a>
 </p>
-<p align="center"><em>Under Construction — created with Figma (Make) focused on UI/UX.</em></p>
+<p align="center"><em>Currently being built — created with Figma (Make) focused on UI/UX.</em></p>
 
 ---
 
