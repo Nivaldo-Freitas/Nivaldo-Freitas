@@ -1,4 +1,4 @@
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd450b44-f53f-4e1b-b210-0ed0fddf9c0c" /><h1 align="center">👋 Hello there, I'm <a href="https://www.linkedin.com/in/nivaldo-freitas/" target="_blank">Nivaldo Neto</a></h1>
+<h1 align="center">👋 Hello there, I'm <a href="https://www.linkedin.com/in/nivaldo-freitas/" target="_blank">Nivaldo Neto</a></h1>
 <h3 align="left">💻 Back-End Developer | C#, .NET & SQL Server Specialist | A.I Enthusiast</h3>
 
 <p align="center">
